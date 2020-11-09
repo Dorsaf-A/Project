@@ -1,0 +1,60 @@
+.bttn{
+    margin: 0px;
+    width: 8em;
+    height: 3em;
+    background-color: rgba(27, 31, 82, 0.856);
+    color: rgb(255, 255, 255);
+    font-size: 18px;
+    border: antiquewhite;
+    border-radius: 10%;
+  }
+
+  .studentCard{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+  }
+
+  .studentDetails{
+    display: flex;
+    flex-direction: row;
+    width: 900px;
+    height: 500px;
+    background-image: url("https://cdn.hipwallpaper.com/m/45/13/JFwWRC.jpg");
+    /* background: rgba(95, 105, 158, 0.849); */
+    margin: 20px 0;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    box-shadow: 0px 20px 30px 3px rgba(216, 187, 187, 0.13);
+    transform: scale(0.95);
+    transition: all 0.5s;
+  }
+
+  .detail{
+    margin: 5%;
+    text-align: left;
+    /* color: wheat; */
+  }
+
+  .profileImg{
+    margin: 10px;
+    width: 280px;
+    height: 380px;
+  }
+
+  tr {
+    font-size: 20px;
+    height: 20px;
+    vertical-align: bottom;
+  }
+
+  label{
+    font-size: 20px;
+  }
+
+  h2{
+    text-align: center;
+    font-style: italic;
+    color: rgb(35, 12, 61);
+  }

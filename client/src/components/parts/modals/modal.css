@@ -1,0 +1,25 @@
+
+input{display: flex;
+    justify-content: stretch;
+    width: 70%;
+    height: 40px;
+
+}
+select{
+    margin: 20px;
+    width: 50%;
+    height: 40px;
+}
+
+p{
+    text-align: center;
+}
+
+label{
+    font-size: 20px;
+
+}
+
+h3{
+    margin: 15px;
+}

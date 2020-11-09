@@ -1,0 +1,19 @@
+.bttn{
+  display: flex;
+  justify-content: stretch;
+    margin: 0%;
+    padding-left: 30px;
+    width: 6em;
+    height: 2em;
+    text-align: center;
+    background-color: rgba(27, 31, 82, 0.856);
+    color: rgb(255, 255, 255);
+    font-size: 18px;
+    border: antiquewhite;
+    border-radius: 10%;
+  }
+
+.bttnA{
+    width: 10em;
+    margin-top: 5px;
+}
